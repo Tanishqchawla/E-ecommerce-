@@ -1,0 +1,28 @@
+.main-content {
+    margin: 10% auto;
+    max-width: 820px;
+    /* text-align: center; */
+    background-color: #fff;
+    box-shadow: 2px 2px 10px 10px #eee;
+    padding: 50px;
+}
+
+.main-content__checkmark {
+    font-size: 4.0625rem !important;
+    line-height: 32px !important;
+    color: #24b663;
+}
+
+.main-content__body {
+    font-size: 24px !important;
+    line-height: 40px;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
